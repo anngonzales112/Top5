@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="sublime-text_subl.desktop" score="15996" last-seen="1570152163"/>
+    <application id="sublime-text_subl.desktop" score="16013" last-seen="1570153191"/>
     <application id="org.gnome.Nautilus.desktop" score="48" last-seen="1570151026"/>
     <application id="gnome-initial-setup.desktop" score="3" last-seen="1569979731"/>
-    <application id="firefox.desktop" score="893" last-seen="1570152822"/>
-    <application id="org.gnome.Terminal.desktop" score="553" last-seen="1570152801"/>
+    <application id="firefox.desktop" score="894" last-seen="1570153077"/>
+    <application id="org.gnome.Terminal.desktop" score="590" last-seen="1570153253"/>
     <application id="shotwell.desktop" score="4" last-seen="1570147456"/>
     <application id="thunderbird.desktop" score="14" last-seen="1570136382"/>
     <application id="org.gnome.Software.desktop" score="12" last-seen="1570031730"/>
