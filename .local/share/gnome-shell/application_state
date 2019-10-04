@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="sublime-text_subl.desktop" score="15996" last-seen="1570152163"/>
+    <application id="org.gnome.Nautilus.desktop" score="48" last-seen="1570151026"/>
+    <application id="gnome-initial-setup.desktop" score="3" last-seen="1569979731"/>
+    <application id="firefox.desktop" score="893" last-seen="1570152822"/>
+    <application id="org.gnome.Terminal.desktop" score="553" last-seen="1570152801"/>
+    <application id="shotwell.desktop" score="4" last-seen="1570147456"/>
+    <application id="thunderbird.desktop" score="14" last-seen="1570136382"/>
+    <application id="org.gnome.Software.desktop" score="12" last-seen="1570031730"/>
+    <application id="gnome-system-monitor_gnome-system-monitor.desktop" score="0" last-seen="1570031043"/>
+    <application id="update-manager.desktop" score="5" last-seen="1570028618"/>
+    <application id="org.gnome.gedit.desktop" score="2" last-seen="1570136930"/>
+    <application id="org.gnome.FileRoller.desktop" score="3" last-seen="1570132887"/>
+    <application id="rhythmbox.desktop" score="3" last-seen="1570031726"/>
+  </context>
+</application-state>

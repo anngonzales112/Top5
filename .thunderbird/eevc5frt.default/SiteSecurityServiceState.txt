@@ -1,0 +1,2 @@
+autoconfig.thunderbird.net:HSTS	0	18171	1601564670357,1,0,2
+www.apple.com:HSTS	0	18171	1601564670301,1,1,2

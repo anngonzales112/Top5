@@ -1,0 +1,12 @@
+body {
+	background-color: lightblue;
+}
+p {
+	border: 1px solid powderblue;
+	margin: 50px;
+	font-style: italic;
+	color: grey;
+}
+h2 {
+	color: blue
+}
